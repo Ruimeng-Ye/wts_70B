@@ -1,0 +1,86 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 1, a drawer 2, a drawer 1, a garbagecan 1, a shelf 1, and a sidetable 1.\n\nYour task is to: examine the bowl with the desklamp."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a alarmclock 3, a creditcard 2, a keychain 1, a pen 2, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a alarmclock 2, and a alarmclock 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "On the drawer 1, you see a creditcard 1, and a pencil 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 2. The drawer 2 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a book 1, a bowl 2, a bowl 1, a cd 3, a cd 2, a cd 1, a cellphone 1, a desklamp 1, a houseplant 1, a laptop 1, a pen 3, a pen 1, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take bowl 2 from desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the bowl 2 from the desk 1."
+    },
+    {
+        "from": "gpt",
+        "value": "use desklamp 1"
+    },
+    {
+        "from": "human",
+        "value": "You turn on the desklamp 1."
+    }
+]

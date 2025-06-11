@@ -1,0 +1,94 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 1, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a shelf 2, a shelf 1, and a sidetable 1.\n\nYour task is to: put two keychain in drawer."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a alarmclock 1, a cd 3, a cd 2, a desklamp 1, a keychain 4, a keychain 2, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take keychain 2 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the keychain 2 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put keychain 2 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the keychain 2 in/on the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a alarmclock 1, a cd 3, a cd 2, a desklamp 1, a keychain 4, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take keychain 1 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the keychain 1 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a keychain 2, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put keychain 1 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the keychain 1 in/on the drawer 1."
+    }
+]

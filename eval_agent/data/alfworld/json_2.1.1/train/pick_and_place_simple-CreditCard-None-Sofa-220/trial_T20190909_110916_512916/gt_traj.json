@@ -1,0 +1,62 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a coffeetable 1, a diningtable 2, a diningtable 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a sidetable 1, a sofa 2, a sofa 1, and a tvstand 1.\n\nYour task is to: put some creditcard on sofa."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a laptop 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 2, you see a laptop 2, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a candle 1, a houseplant 1, and a tissuebox 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a creditcard 4, a statue 1, and a tissuebox 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take creditcard 4 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the creditcard 4 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a laptop 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put creditcard 4 in/on sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the creditcard 4 in/on the sofa 1."
+    }
+]

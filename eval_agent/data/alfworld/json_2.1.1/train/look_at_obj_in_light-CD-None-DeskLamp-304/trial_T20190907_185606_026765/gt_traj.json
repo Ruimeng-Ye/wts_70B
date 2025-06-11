@@ -1,0 +1,54 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 2, a bed 1, a desk 1, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, and a shelf 1.\n\nYour task is to: examine the cd with the desklamp."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a alarmclock 2, a alarmclock 1, a bowl 1, a desklamp 1, a keychain 1, and a statue 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "On the drawer 1, you see a cd 1, and a pen 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take cd 1 from drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the cd 1 from the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a alarmclock 2, a alarmclock 1, a bowl 1, a desklamp 1, a keychain 1, and a statue 1."
+    },
+    {
+        "from": "gpt",
+        "value": "use desklamp 1"
+    },
+    {
+        "from": "human",
+        "value": "You turn on the desklamp 1."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 2, a armchair 1, a coffeetable 1, a diningtable 2, a diningtable 1, a drawer 2, a drawer 1, a garbagecan 1, a sidetable 2, a sidetable 1, a sofa 1, and a tvstand 1.\n\nYour task is to: put a watch in coffeetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a vase 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a curtains 1, and a watch 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take watch 2 from sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the watch 2 from the sidetable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a creditcard 2, a creditcard 1, a newspaper 1, a pen 2, a pencil 3, a pencil 2, a plate 2, a tissuebox 2, and a tissuebox 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put watch 2 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the watch 2 in/on the coffeetable 1."
+    }
+]

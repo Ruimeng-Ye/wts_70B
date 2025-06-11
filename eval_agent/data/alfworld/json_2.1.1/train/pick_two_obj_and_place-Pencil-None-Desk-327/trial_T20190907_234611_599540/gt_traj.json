@@ -1,0 +1,94 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 1, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.\n\nYour task is to: find two pencil and put them in desk."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a creditcard 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see a bowl 1, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take pencil 1 from shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pencil 1 from the shelf 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a book 1, a bowl 2, and a cd 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put pencil 1 in/on desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pencil 1 in/on the desk 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a creditcard 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see a bowl 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take pencil 2 from shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pencil 2 from the shelf 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a book 1, a bowl 2, a cd 2, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put pencil 2 in/on desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pencil 2 in/on the desk 1."
+    }
+]

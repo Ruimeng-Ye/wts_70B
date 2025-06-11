@@ -1,0 +1,78 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bathtubbasin 1, a cart 1, a countertop 1, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a handtowelholder 1, a shelf 1, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.\n\nYour task is to: find two tissuebox and put them in cart."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a soapbottle 1, a tissuebox 3, and a toiletpaper 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take tissuebox 3 from toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the tissuebox 3 from the toilet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cart 1"
+    },
+    {
+        "from": "human",
+        "value": "On the cart 1, you see a candle 3, a candle 2, a cloth 2, a dishsponge 2, a spraybottle 3, and a toiletpaper 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put tissuebox 3 in/on cart 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the tissuebox 3 in/on the cart 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a soapbottle 1, and a toiletpaper 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a candle 1, a cloth 1, a spraybottle 1, a tissuebox 2, and a tissuebox 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take tissuebox 2 from shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the tissuebox 2 from the shelf 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cart 1"
+    },
+    {
+        "from": "human",
+        "value": "On the cart 1, you see a candle 3, a candle 2, a cloth 2, a dishsponge 2, a spraybottle 3, a tissuebox 3, and a toiletpaper 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put tissuebox 2 in/on cart 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the tissuebox 2 in/on the cart 1."
+    }
+]

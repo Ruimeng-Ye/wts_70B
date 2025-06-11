@@ -1,0 +1,94 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a coffeetable 1, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a sidetable 2, a sidetable 1, and a sofa 1.\n\nYour task is to: put two vase in coffeetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a book 1, and a houseplant 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a vase 4."
+    },
+    {
+        "from": "gpt",
+        "value": "take vase 4 from sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the vase 4 from the sidetable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a book 2, a laptop 2, a remotecontrol 3, and a statue 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put vase 4 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the vase 4 in/on the coffeetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a book 1, and a houseplant 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a laptop 1, a pen 3, a pen 2, a pen 1, a statue 1, a vase 3, a vase 2, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take vase 3 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the vase 3 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a book 2, a laptop 2, a remotecontrol 3, a statue 2, and a vase 4."
+    },
+    {
+        "from": "gpt",
+        "value": "put vase 3 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the vase 3 in/on the coffeetable 1."
+    }
+]

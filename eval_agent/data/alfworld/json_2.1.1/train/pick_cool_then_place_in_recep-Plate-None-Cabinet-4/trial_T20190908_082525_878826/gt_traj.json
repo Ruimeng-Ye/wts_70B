@@ -1,0 +1,78 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a diningtable 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: put a cool plate in cabinet."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toaster 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toaster 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to stoveburner 1"
+    },
+    {
+        "from": "human",
+        "value": "On the stoveburner 1, you see a pot 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a apple 2, a bowl 3, a bread 1, a butterknife 2, a egg 2, a fork 1, a knife 3, a ladle 2, a lettuce 3, a mug 2, a pan 1, a plate 1, a soapbottle 3, a soapbottle 2, a spatula 1, and a tomato 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take plate 1 from diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the plate 1 from the diningtable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "The fridge 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "cool plate 1 with fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "You cool the plate 1 using the fridge 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put plate 1 in/on cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the plate 1 in/on the cabinet 1."
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 9, a cabinet 8, a cabinet 7, a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a drawer 9, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: put a cool potato in garbagecan."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sinkbasin 1, you see a bowl 3, a butterknife 2, a dishsponge 1, a potato 1, and a spatula 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take potato 1 from sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the potato 1 from the sinkbasin 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "The fridge 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "cool potato 1 with fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "You cool the potato 1 using the fridge 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see a apple 1, and a glassbottle 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put potato 1 in/on garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the potato 1 in/on the garbagecan 1."
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a drawer 10, a drawer 9, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.\n\nYour task is to: look at alarmclock under the desklamp."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see a mug 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 4"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 4, you see a creditcard 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see a window 2, and a window 1."
+    },
+    {
+        "from": "gpt",
+        "value": "examine shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see a window 2, and a window 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see a cd 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 6, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 9 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 9. The drawer 9 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 9."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 7"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 7, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a alarmclock 1, a desklamp 1, a mug 2, and a mug 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take alarmclock 1 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the alarmclock 1 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "use desklamp 1"
+    },
+    {
+        "from": "human",
+        "value": "You turn on the desklamp 1."
+    }
+]

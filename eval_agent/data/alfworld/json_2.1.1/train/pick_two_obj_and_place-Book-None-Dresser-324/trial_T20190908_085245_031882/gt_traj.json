@@ -1,0 +1,718 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a drawer 10, a drawer 9, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.\n\nYour task is to: put two book in dresser."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see a mug 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 4"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 4, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see a alarmclock 1, a creditcard 2, a window 2, and a window 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take alarmclock 1 from shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the alarmclock 1 from the shelf 5."
+    },
+    {
+        "from": "gpt",
+        "value": "put alarmclock 1 in/on shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "You put the alarmclock 1 in/on the shelf 5."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 6, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 4 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 4. The drawer 4 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 4."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 7"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 7, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a desklamp 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a pen 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 2. The drawer 2 is open. In it, you see a creditcard 1, and a pen 3."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 3 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 3. The drawer 3 is open. In it, you see a cd 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 5 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 5. The drawer 5 is open. In it, you see a pen 2."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 5."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 6 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 6. The drawer 6 is open. In it, you see a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 6."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 7 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 7. The drawer 7 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 7."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 8"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 8 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 8"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 8. The drawer 8 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 8"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 8."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 9 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 9. The drawer 9 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 9."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 10"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 10 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 10"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 10. The drawer 10 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 10"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 10."
+    },
+    {
+        "from": "gpt",
+        "value": "go to bed 1"
+    },
+    {
+        "from": "human",
+        "value": "On the bed 1, you see a book 3, a book 2, a book 1, a cellphone 1, a laptop 1, a pillow 2, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take book 1 from bed 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the book 1 from the bed 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a desklamp 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put book 1 in/on dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the book 1 in/on the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see a mug 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 4"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 4, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see a alarmclock 1, a creditcard 2, a window 2, and a window 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 5 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 5. The drawer 5 is open. In it, you see a pen 2."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 5."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 6, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 5 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 5. The drawer 5 is open. In it, you see a pen 2."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 5."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 7"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 7, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a pen 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 2. The drawer 2 is open. In it, you see a creditcard 1, and a pen 3."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 3 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 3. The drawer 3 is open. In it, you see a cd 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 4 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 4. The drawer 4 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 4."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 6 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 6. The drawer 6 is open. In it, you see a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 6."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 7 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 7. The drawer 7 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 7."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 8"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 8 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 8"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 8. The drawer 8 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 8"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 8."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 9 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 9. The drawer 9 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 9"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 9."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 10"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 10 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 10"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 10. The drawer 10 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 10"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 10."
+    },
+    {
+        "from": "gpt",
+        "value": "go to bed 1"
+    },
+    {
+        "from": "human",
+        "value": "On the bed 1, you see a book 3, a book 2, a cellphone 1, a laptop 1, a pillow 2, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take book 2 from bed 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the book 2 from the bed 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a book 1, and a desklamp 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put book 2 in/on dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the book 2 in/on the dresser 1."
+    }
+]

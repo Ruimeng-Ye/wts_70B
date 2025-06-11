@@ -1,0 +1,230 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 1, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a sidetable 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: put a clean spoon in sidetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sinkbasin 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a egg 2, a peppershaker 1, and a saltshaker 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 2. The drawer 2 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 3 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 3. The drawer 3 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 4 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 4. The drawer 4 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 4."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 5 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 5. The drawer 5 is open. In it, you see a fork 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 5."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 6 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 6. The drawer 6 is open. In it, you see a fork 2."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 6."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "On the drawer 7, you see a spatula 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 8"
+    },
+    {
+        "from": "human",
+        "value": "On the drawer 8, you see a spatula 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "On the countertop 1, you see a apple 2, a bowl 2, a bread 2, a bread 1, a dishsponge 1, a houseplant 1, a knife 2, a knife 1, a lettuce 2, a lettuce 1, a pan 2, a pan 1, a papertowelroll 1, a plate 1, a pot 2, a potato 2, a saltshaker 2, a spatula 3, a spoon 2, a spoon 1, a winebottle 3, and a winebottle 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take spoon 2 from countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the spoon 2 from the countertop 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sinkbasin 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "clean spoon 2 with sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "You clean the spoon 2 using the sinkbasin 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a egg 2, a peppershaker 1, and a saltshaker 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put spoon 2 in/on sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the spoon 2 in/on the sidetable 1."
+    }
+]

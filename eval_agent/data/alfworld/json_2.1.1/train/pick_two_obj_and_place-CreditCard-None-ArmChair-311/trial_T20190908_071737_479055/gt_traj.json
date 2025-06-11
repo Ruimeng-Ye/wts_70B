@@ -1,0 +1,134 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 2, a armchair 1, a bed 1, a countertop 1, a diningtable 1, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a laundryhamper 1, and a sidetable 1.\n\nYour task is to: find two creditcard and put them in armchair."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a book 1, a creditcard 2, a keychain 2, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take creditcard 2 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the creditcard 2 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "On the armchair 1, you see a book 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put creditcard 2 in/on armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the creditcard 2 in/on the armchair 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a book 1, a keychain 2, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a cd 1, a keychain 1, a remotecontrol 1, and a television 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 2. The drawer 2 is open. In it, you see a pen 1, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a alarmclock 2, a alarmclock 1, a cd 2, and a creditcard 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take creditcard 1 from diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the creditcard 1 from the diningtable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "On the armchair 1, you see a book 2, and a creditcard 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put creditcard 1 in/on armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the creditcard 1 in/on the armchair 1."
+    }
+]

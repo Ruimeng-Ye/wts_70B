@@ -1,0 +1,86 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a coffeetable 2, a coffeetable 1, a diningtable 1, a drawer 1, a garbagecan 1, a sidetable 1, and a sofa 1.\n\nYour task is to: put two creditcard in armchair."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 3, a creditcard 2, a creditcard 1, and a statue 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take creditcard 2 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the creditcard 2 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "On the armchair 1, you see a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put creditcard 2 in/on armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the creditcard 2 in/on the armchair 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 3, a creditcard 1, and a statue 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take creditcard 3 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the creditcard 3 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "On the armchair 1, you see a creditcard 2, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put creditcard 3 in/on armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the creditcard 3 in/on the armchair 1."
+    }
+]

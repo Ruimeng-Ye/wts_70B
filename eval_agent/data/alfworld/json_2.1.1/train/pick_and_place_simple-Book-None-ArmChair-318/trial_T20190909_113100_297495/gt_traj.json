@@ -1,0 +1,46 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a bed 2, a bed 1, a cabinet 1, a desk 2, a desk 1, a drawer 13, a drawer 12, a drawer 11, a drawer 10, a drawer 9, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 2, a dresser 1, and a garbagecan 1.\n\nYour task is to: put some book on armchair."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a alarmclock 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 2"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 2, you see a alarmclock 2, a book 3, a cd 2, a cd 1, a mug 3, a pen 2, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take book 3 from dresser 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the book 3 from the dresser 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "On the armchair 1, you see a creditcard 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put book 3 in/on armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the book 3 in/on the armchair 1."
+    }
+]

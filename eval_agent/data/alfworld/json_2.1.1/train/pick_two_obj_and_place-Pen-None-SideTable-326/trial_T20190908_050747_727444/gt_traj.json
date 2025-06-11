@@ -1,0 +1,158 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 2, a bed 1, a diningtable 1, a drawer 2, a drawer 1, a garbagecan 1, a shelf 14, a shelf 13, a shelf 12, a shelf 11, a shelf 10, a shelf 9, a shelf 8, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, a shelf 1, and a sidetable 1.\n\nYour task is to: put two pen in sidetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a cellphone 1, a creditcard 2, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see a creditcard 1, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 4"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 4, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 6, you see a pen 2, and a pen 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take pen 2 from shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pen 2 from the shelf 6."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a cellphone 1, a creditcard 2, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put pen 2 in/on sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pen 2 in/on the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see a creditcard 1, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 4"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 4, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 6, you see a pen 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take pen 1 from shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pen 1 from the shelf 6."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a cellphone 1, a creditcard 2, a keychain 1, and a pen 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put pen 1 in/on sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pen 1 in/on the sidetable 1."
+    }
+]

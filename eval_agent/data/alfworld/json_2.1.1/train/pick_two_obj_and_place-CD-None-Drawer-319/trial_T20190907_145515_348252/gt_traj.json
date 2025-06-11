@@ -1,0 +1,254 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a drawer 10, a drawer 9, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a shelf 9, a shelf 8, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.\n\nYour task is to: find two cd and put them in drawer."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a alarmclock 2, a statue 3, and a statue 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see a alarmclock 3, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 4"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 4, you see a houseplant 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 6, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 7"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 7, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 8"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 8, you see a pencil 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 9"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 9, you see a pen 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a alarmclock 1, a cd 3, a cd 2, a cd 1, a creditcard 1, a desklamp 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take cd 2 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the cd 2 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put cd 2 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the cd 2 in/on the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a alarmclock 2, a statue 3, and a statue 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see a alarmclock 3, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 4"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 4, you see a houseplant 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 6, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 7"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 7, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 8"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 8, you see a pencil 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 9"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 9, you see a pen 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a alarmclock 1, a cd 3, a cd 1, a creditcard 1, a desklamp 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take cd 3 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the cd 3 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a cd 2, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put cd 3 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the cd 3 in/on the drawer 1."
+    }
+]

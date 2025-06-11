@@ -1,0 +1,118 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 10, a cabinet 9, a cabinet 8, a cabinet 7, a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 2, a countertop 1, a diningtable 2, a diningtable 1, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: put a cool tomato in diningtable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sinkbasin 1, you see a mug 2, and a spatula 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to microwave 1"
+    },
+    {
+        "from": "human",
+        "value": "The microwave 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open microwave 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the microwave 1. The microwave 1 is open. In it, you see a mug 3, and a potato 3."
+    },
+    {
+        "from": "gpt",
+        "value": "close microwave 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the microwave 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see a apple 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "The fridge 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the fridge 1. The fridge 1 is open. In it, you see a cup 1, and a potato 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the fridge 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a bowl 1, a cup 2, a fork 1, a knife 1, a lettuce 1, a pot 1, a spoon 2, and a tomato 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take tomato 1 from diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the tomato 1 from the diningtable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "The fridge 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "cool tomato 1 with fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "You cool the tomato 1 using the fridge 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a bowl 1, a cup 2, a fork 1, a knife 1, a lettuce 1, a pot 1, and a spoon 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put tomato 1 in/on diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the tomato 1 in/on the diningtable 1."
+    }
+]

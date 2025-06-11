@@ -1,0 +1,134 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a desk 1, a drawer 2, a drawer 1, a garbagecan 1, a shelf 1, and a sidetable 1.\n\nYour task is to: put some cd on shelf."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 1, a pen 1, a pencil 2, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a creditcard 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a keychain 2."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 2. The drawer 2 is open. In it, you see a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a alarmclock 1, a box 1, a cellphone 1, a keychain 3, a pen 3, and a pen 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see a cd 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take cd 1 from cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the cd 1 from the cabinet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a creditcard 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put cd 1 in/on shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the cd 1 in/on the shelf 1."
+    }
+]

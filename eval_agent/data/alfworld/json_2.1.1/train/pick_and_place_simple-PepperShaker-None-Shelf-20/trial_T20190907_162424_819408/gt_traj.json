@@ -1,0 +1,70 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 13, a cabinet 12, a cabinet 11, a cabinet 10, a cabinet 9, a cabinet 8, a cabinet 7, a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 1, a diningtable 1, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a shelf 3, a shelf 2, a shelf 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: put some peppershaker on shelf."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a soapbottle 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see a pot 1, and a soapbottle 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "On the drawer 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a bowl 2, a bread 1, a dishsponge 1, a egg 1, a fork 1, a knife 1, a ladle 3, a ladle 2, a ladle 1, a peppershaker 2, a saltshaker 2, a soapbottle 3, a spoon 2, and a tomato 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take peppershaker 2 from diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the peppershaker 2 from the diningtable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a soapbottle 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put peppershaker 2 in/on shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the peppershaker 2 in/on the shelf 1."
+    }
+]

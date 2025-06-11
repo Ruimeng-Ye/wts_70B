@@ -1,0 +1,110 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a coffeetable 1, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a sidetable 2, a sidetable 1, and a sofa 1.\n\nYour task is to: find two book and put them in sofa."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a box 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a houseplant 1, a pen 1, a remotecontrol 1, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a book 2, a book 1, a creditcard 1, a newspaper 1, a pen 3, a pen 2, a statue 1, a vase 4, a vase 3, a vase 2, and a watch 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take book 1 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the book 1 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a box 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put book 1 in/on sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the book 1 in/on the sofa 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a houseplant 1, a pen 1, a remotecontrol 1, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a book 2, a creditcard 1, a newspaper 1, a pen 3, a pen 2, a statue 1, a vase 4, a vase 3, a vase 2, and a watch 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take book 2 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the book 2 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a book 1, a box 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put book 2 in/on sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the book 2 in/on the sofa 1."
+    }
+]

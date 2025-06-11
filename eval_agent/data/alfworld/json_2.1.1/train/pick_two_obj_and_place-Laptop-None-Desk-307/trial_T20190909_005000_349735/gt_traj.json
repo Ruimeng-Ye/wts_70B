@@ -1,0 +1,94 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 1, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, a shelf 2, a shelf 1, and a sidetable 1.\n\nYour task is to: find two laptop and put them in desk."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a alarmclock 2, a book 1, a cd 1, a desklamp 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a bowl 1, and a cd 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to bed 1"
+    },
+    {
+        "from": "human",
+        "value": "On the bed 1, you see a cellphone 1, a laptop 2, a laptop 1, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take laptop 2 from bed 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the laptop 2 from the bed 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a bowl 1, and a cd 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put laptop 2 in/on desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the laptop 2 in/on the desk 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a alarmclock 2, a book 1, a cd 1, a desklamp 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to bed 1"
+    },
+    {
+        "from": "human",
+        "value": "On the bed 1, you see a cellphone 1, a laptop 1, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take laptop 1 from bed 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the laptop 1 from the bed 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a bowl 1, a cd 2, and a laptop 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put laptop 1 in/on desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the laptop 1 in/on the desk 1."
+    }
+]

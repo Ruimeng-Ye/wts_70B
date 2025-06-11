@@ -1,0 +1,70 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 1, a drawer 2, a drawer 1, a garbagecan 1, a shelf 1, and a sidetable 1.\n\nYour task is to: find two pencil and put them in drawer."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a alarmclock 1, a pen 1, a pencil 4, and a pencil 3."
+    },
+    {
+        "from": "gpt",
+        "value": "take pencil 4 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pencil 4 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "On the drawer 1, you see a creditcard 3, a creditcard 1, and a keychain 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put pencil 4 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pencil 4 in/on the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a alarmclock 1, a pen 1, and a pencil 3."
+    },
+    {
+        "from": "gpt",
+        "value": "take pencil 3 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pencil 3 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "On the drawer 1, you see a creditcard 3, a creditcard 1, a keychain 2, and a pencil 4."
+    },
+    {
+        "from": "gpt",
+        "value": "put pencil 3 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pencil 3 in/on the drawer 1."
+    }
+]

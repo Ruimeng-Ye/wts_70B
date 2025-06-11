@@ -1,0 +1,86 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a diningtable 1, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a sidetable 2, and a sidetable 1.\n\nYour task is to: put two creditcard in diningtable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a alarmclock 1, a creditcard 2, a creditcard 1, and a mug 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take creditcard 1 from sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the creditcard 1 from the sidetable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a book 2, a book 1, a cd 1, a cellphone 2, a cellphone 1, a keychain 3, a keychain 2, a keychain 1, a pen 2, a pen 1, a pencil 3, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put creditcard 1 in/on diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the creditcard 1 in/on the diningtable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a alarmclock 1, a creditcard 2, and a mug 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take creditcard 2 from sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the creditcard 2 from the sidetable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a book 2, a book 1, a cd 1, a cellphone 2, a cellphone 1, a creditcard 1, a keychain 3, a keychain 2, a keychain 1, a pen 2, a pen 1, a pencil 3, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put creditcard 2 in/on diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the creditcard 2 in/on the diningtable 1."
+    }
+]

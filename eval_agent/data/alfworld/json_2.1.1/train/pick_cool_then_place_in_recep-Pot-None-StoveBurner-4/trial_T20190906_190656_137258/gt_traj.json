@@ -1,0 +1,134 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 3, a countertop 2, a countertop 1, a diningtable 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: cool some pot and put it in stoveburner."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toaster 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toaster 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to stoveburner 1"
+    },
+    {
+        "from": "human",
+        "value": "On the stoveburner 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see a bowl 1, and a peppershaker 2."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to stoveburner 2"
+    },
+    {
+        "from": "human",
+        "value": "On the stoveburner 2, you see a pan 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to stoveburner 3"
+    },
+    {
+        "from": "human",
+        "value": "On the stoveburner 3, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to stoveburner 4"
+    },
+    {
+        "from": "human",
+        "value": "On the stoveburner 4, you see a pot 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take pot 1 from stoveburner 4"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pot 1 from the stoveburner 4."
+    },
+    {
+        "from": "gpt",
+        "value": "go to fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "The fridge 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "cool pot 1 with fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "You cool the pot 1 using the fridge 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to stoveburner 1"
+    },
+    {
+        "from": "human",
+        "value": "On the stoveburner 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put pot 1 in/on stoveburner 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pot 1 in/on the stoveburner 1."
+    }
+]

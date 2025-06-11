@@ -1,0 +1,94 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a countertop 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a handtowelholder 2, a handtowelholder 1, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, a towelholder 2, and a towelholder 1.\n\nYour task is to: find two candle and put them in drawer."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a candle 3, a candle 1, a soapbottle 2, and a soapbottle 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take candle 3 from toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the candle 3 from the toilet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put candle 3 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the candle 3 in/on the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a candle 1, a soapbottle 2, and a soapbottle 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take candle 1 from toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the candle 1 from the toilet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a candle 3."
+    },
+    {
+        "from": "gpt",
+        "value": "put candle 1 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the candle 1 in/on the drawer 1."
+    }
+]

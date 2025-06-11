@@ -1,0 +1,110 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 1, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a safe 1, a shelf 5, a shelf 4, a shelf 3, a shelf 2, a shelf 1, a sidetable 2, and a sidetable 1.\n\nYour task is to: put two cellphone in safe."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a cellphone 3, a cellphone 2, and a desklamp 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take cellphone 3 from sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the cellphone 3 from the sidetable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to safe 1"
+    },
+    {
+        "from": "human",
+        "value": "The safe 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open safe 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the safe 1. The safe 1 is open. In it, you see a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put cellphone 3 in/on safe 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the cellphone 3 in/on the safe 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close safe 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the safe 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a cellphone 2, and a desklamp 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take cellphone 2 from sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the cellphone 2 from the sidetable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to safe 1"
+    },
+    {
+        "from": "human",
+        "value": "The safe 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open safe 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the safe 1. The safe 1 is open. In it, you see a cellphone 3, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put cellphone 2 in/on safe 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the cellphone 2 in/on the safe 1."
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a coffeetable 1, a diningtable 1, a drawer 1, a garbagecan 1, a sidetable 2, a sidetable 1, a sofa 2, and a sofa 1.\n\nYour task is to: find two statue and put them in diningtable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 1, a statue 4, a television 1, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take statue 4 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the statue 4 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a box 2, a creditcard 3, a creditcard 2, a laptop 2, a newspaper 2, a newspaper 1, and a remotecontrol 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put statue 4 in/on diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the statue 4 in/on the diningtable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 1, a television 1, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a plate 1, a remotecontrol 1, a statue 3, a statue 2, a statue 1, and a watch 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take statue 3 from coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the statue 3 from the coffeetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a box 2, a creditcard 3, a creditcard 2, a laptop 2, a newspaper 2, a newspaper 1, a remotecontrol 2, and a statue 4."
+    },
+    {
+        "from": "gpt",
+        "value": "put statue 3 in/on diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the statue 3 in/on the diningtable 1."
+    }
+]

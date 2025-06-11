@@ -1,0 +1,110 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 2, a armchair 1, a coffeetable 2, a coffeetable 1, a garbagecan 1, a shelf 8, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, a shelf 1, a sofa 1, and a tvstand 1.\n\nYour task is to: put a watch in coffeetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 3"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 3, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 4"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 4, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "examine shelf 5"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 5, you see a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 6"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 6, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 7"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 7, you see a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 8"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 8, you see a creditcard 1, a vase 2, and a watch 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take watch 1 from shelf 8"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the watch 1 from the shelf 8."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a houseplant 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put watch 1 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the watch 1 in/on the coffeetable 1."
+    }
+]

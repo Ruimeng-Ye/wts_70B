@@ -1,0 +1,102 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a coffeetable 1, a diningtable 1, a drawer 1, a garbagecan 1, a sidetable 2, a sidetable 1, a sofa 2, and a sofa 1.\n\nYour task is to: put a keychain in sofa."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 2, you see a laptop 1, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a box 1, and a television 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a creditcard 2, a creditcard 1, a remotecontrol 3, a remotecontrol 2, and a watch 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a watch 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a laptop 2, a newspaper 2, a statue 3, a statue 2, and a watch 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a keychain 1, a newspaper 1, a plate 1, a remotecontrol 1, a statue 1, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take keychain 1 from coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the keychain 1 from the coffeetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put keychain 1 in/on sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the keychain 1 in/on the sofa 1."
+    }
+]

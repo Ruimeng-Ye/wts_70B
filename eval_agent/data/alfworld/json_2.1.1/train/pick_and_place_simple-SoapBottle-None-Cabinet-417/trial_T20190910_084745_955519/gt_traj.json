@@ -1,0 +1,62 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.\n\nYour task is to: put a soapbottle in cabinet."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a candle 3, and a cloth 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see a soapbar 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "On the countertop 1, you see a candle 2, a soapbottle 1, a spraybottle 3, and a spraybottle 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take soapbottle 1 from countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the soapbottle 1 from the countertop 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see a cloth 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put soapbottle 1 in/on cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the soapbottle 1 in/on the cabinet 1."
+    }
+]

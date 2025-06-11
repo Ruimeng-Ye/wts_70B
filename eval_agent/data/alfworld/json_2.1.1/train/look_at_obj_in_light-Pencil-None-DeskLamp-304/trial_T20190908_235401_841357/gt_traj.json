@@ -1,0 +1,30 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 2, a bed 1, a desk 1, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a laundryhamper 1, and a shelf 1.\n\nYour task is to: examine the pencil with the desklamp."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a bowl 1, a desklamp 1, a keychain 3, a pencil 2, and a statue 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take pencil 2 from shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pencil 2 from the shelf 1."
+    },
+    {
+        "from": "gpt",
+        "value": "use desklamp 1"
+    },
+    {
+        "from": "human",
+        "value": "You turn on the desklamp 1."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a cabinet 1, a drawer 21, a drawer 20, a drawer 19, a drawer 18, a drawer 17, a drawer 16, a drawer 15, a drawer 14, a drawer 13, a drawer 12, a drawer 11, a drawer 10, a drawer 9, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a sidetable 5, a sidetable 4, a sidetable 3, a sidetable 2, a sidetable 1, and a sofa 1.\n\nYour task is to: examine the newspaper with the desklamp."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a box 2, a creditcard 3, a keychain 3, a newspaper 2, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take newspaper 2 from sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the newspaper 2 from the sofa 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 1, and a desklamp 1."
+    },
+    {
+        "from": "gpt",
+        "value": "use desklamp 1"
+    },
+    {
+        "from": "human",
+        "value": "You turn on the desklamp 1."
+    }
+]

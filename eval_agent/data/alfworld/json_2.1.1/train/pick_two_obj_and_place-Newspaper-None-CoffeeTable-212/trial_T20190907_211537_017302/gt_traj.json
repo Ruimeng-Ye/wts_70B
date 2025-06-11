@@ -1,0 +1,70 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 2, a armchair 1, a coffeetable 1, a drawer 1, a garbagecan 1, a shelf 4, a shelf 3, a shelf 2, a shelf 1, a sidetable 1, a sofa 1, a tvstand 2, and a tvstand 1.\n\nYour task is to: find two newspaper and put them in coffeetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a creditcard 2, a newspaper 2, a newspaper 1, a pillow 1, a remotecontrol 3, and a remotecontrol 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take newspaper 2 from sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the newspaper 2 from the sofa 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a keychain 3, a keychain 2, a pen 1, a statue 2, a statue 1, and a tissuebox 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put newspaper 2 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the newspaper 2 in/on the coffeetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a creditcard 2, a newspaper 1, a pillow 1, a remotecontrol 3, and a remotecontrol 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take newspaper 1 from sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the newspaper 1 from the sofa 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a keychain 3, a keychain 2, a newspaper 2, a pen 1, a statue 2, a statue 1, and a tissuebox 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put newspaper 1 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the newspaper 1 in/on the coffeetable 1."
+    }
+]

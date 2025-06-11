@@ -1,0 +1,78 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bathtubbasin 1, a drawer 2, a drawer 1, a garbagecan 1, a handtowelholder 1, a sidetable 1, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.\n\nYour task is to: put two spraybottle in garbagecan."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a candle 3, a soapbottle 2, a soapbottle 1, and a spraybottle 3."
+    },
+    {
+        "from": "gpt",
+        "value": "take spraybottle 3 from toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the spraybottle 3 from the toilet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see a toiletpaper 3."
+    },
+    {
+        "from": "gpt",
+        "value": "put spraybottle 3 in/on garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the spraybottle 3 in/on the garbagecan 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a candle 3, a soapbottle 2, and a soapbottle 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a candle 2, a spraybottle 2, a spraybottle 1, and a tissuebox 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take spraybottle 1 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the spraybottle 1 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see a spraybottle 3, and a toiletpaper 3."
+    },
+    {
+        "from": "gpt",
+        "value": "put spraybottle 1 in/on garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the spraybottle 1 in/on the garbagecan 1."
+    }
+]

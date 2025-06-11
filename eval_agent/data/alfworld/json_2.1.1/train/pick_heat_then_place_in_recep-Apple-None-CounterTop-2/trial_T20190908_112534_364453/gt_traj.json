@@ -1,0 +1,54 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 9, a cabinet 8, a cabinet 7, a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 2, a countertop 1, a drawer 13, a drawer 12, a drawer 11, a drawer 10, a drawer 9, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a sinkbasin 1, a stoveburner 6, a stoveburner 5, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: heat some apple and put it in countertop."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sinkbasin 1, you see a apple 1, and a bowl 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take apple 1 from sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the apple 1 from the sinkbasin 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to microwave 1"
+    },
+    {
+        "from": "human",
+        "value": "The microwave 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "heat apple 1 with microwave 1"
+    },
+    {
+        "from": "human",
+        "value": "You heat the apple 1 using the microwave 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "On the countertop 1, you see a cellphone 3, a knife 3, a mug 1, a pan 2, a pan 1, a pot 1, a saltshaker 2, a spoon 3, a spoon 2, a window 3, and a window 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put apple 1 in/on countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the apple 1 in/on the countertop 1."
+    }
+]

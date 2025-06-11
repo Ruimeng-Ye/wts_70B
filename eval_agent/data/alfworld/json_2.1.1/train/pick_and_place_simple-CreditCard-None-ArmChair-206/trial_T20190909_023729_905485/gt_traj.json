@@ -1,0 +1,38 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a coffeetable 1, a garbagecan 1, a shelf 14, a shelf 13, a shelf 12, a shelf 11, a shelf 10, a shelf 9, a shelf 8, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, a shelf 1, a sofa 1, a tvstand 2, and a tvstand 1.\n\nYour task is to: put a creditcard in armchair."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a creditcard 2, a pillow 1, and a remotecontrol 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take creditcard 2 from sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the creditcard 2 from the sofa 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "On the armchair 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put creditcard 2 in/on armchair 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the creditcard 2 in/on the armchair 1."
+    }
+]

@@ -1,0 +1,262 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a coffeetable 1, a diningtable 1, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a ottoman 1, a sidetable 1, and a sofa 1.\n\nYour task is to: put two bowl in coffeetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a creditcard 1, a laptop 2, and a newspaper 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a bowl 4, a cellphone 2, a houseplant 1, a pencil 3, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take bowl 4 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the bowl 4 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a book 1, a laptop 1, a remotecontrol 2, a remotecontrol 1, a tissuebox 2, a tissuebox 1, and a watch 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put bowl 4 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the bowl 4 in/on the coffeetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a creditcard 1, a laptop 2, and a newspaper 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a cellphone 2, a houseplant 1, a pencil 3, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to ottoman 1"
+    },
+    {
+        "from": "human",
+        "value": "On the ottoman 1, you see a cellphone 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 2. The drawer 2 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 3"
+    },
+    {
+        "from": "human",
+        "value": "On the drawer 3, you see a watch 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 4 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 4. The drawer 4 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 4"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 4."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 5 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 5. The drawer 5 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 5"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 5."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 6 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 6. The drawer 6 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 6"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 6."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 7 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 7. The drawer 7 is open. In it, you see a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 7"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 7."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a book 2, a bowl 3, a bowl 2, a bowl 1, a newspaper 2, a newspaper 1, a plate 1, a remotecontrol 3, a vase 1, and a watch 3."
+    },
+    {
+        "from": "gpt",
+        "value": "take bowl 2 from diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the bowl 2 from the diningtable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a book 1, a bowl 4, a laptop 1, a remotecontrol 2, a remotecontrol 1, a tissuebox 2, a tissuebox 1, and a watch 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put bowl 2 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the bowl 2 in/on the coffeetable 1."
+    }
+]

@@ -1,0 +1,190 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 1, a diningtable 3, a diningtable 2, a diningtable 1, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a sidetable 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: put some peppershaker on sidetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a apple 2, a cup 1, a dishsponge 2, a lettuce 1, a soapbottle 1, and a spoon 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a fork 2, a knife 1, and a spatula 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a cup 3, and a tomato 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 2, you see a cup 2, a egg 1, a plate 2, a soapbottle 2, and a spoon 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 3"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 3, you see a bread 2, a bread 1, a plate 3, a potato 3, a spatula 2, and a spoon 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "On the countertop 1, you see a bowl 1, a butterknife 3, and a butterknife 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see a dishsponge 1, and a saltshaker 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 2"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 2. The cabinet 2 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 3"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 3 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 3"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 3. The cabinet 3 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 3"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 4"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 4 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 4"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 4. The cabinet 4 is open. In it, you see a peppershaker 2, a peppershaker 1, and a saltshaker 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take peppershaker 1 from cabinet 4"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the peppershaker 1 from the cabinet 4."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 4"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 4."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a apple 2, a cup 1, a dishsponge 2, a lettuce 1, a soapbottle 1, and a spoon 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put peppershaker 1 in/on sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the peppershaker 1 in/on the sidetable 1."
+    }
+]

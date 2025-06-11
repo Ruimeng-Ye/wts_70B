@@ -1,0 +1,78 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 1, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, and a garbagecan 1.\n\nYour task is to: find two pencil and put them in desk."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take pencil 2 from garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pencil 2 from the garbagecan 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a alarmclock 1, a book 2, a cd 3, a cd 2, a desklamp 1, a laptop 2, and a pen 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put pencil 2 in/on desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pencil 2 in/on the desk 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a book 1, a pencil 3, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take pencil 1 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pencil 1 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a alarmclock 1, a book 2, a cd 3, a cd 2, a desklamp 1, a laptop 2, a pen 1, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put pencil 1 in/on desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the pencil 1 in/on the desk 1."
+    }
+]

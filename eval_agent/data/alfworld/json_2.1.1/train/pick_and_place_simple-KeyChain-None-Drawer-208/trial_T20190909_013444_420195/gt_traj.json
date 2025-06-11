@@ -1,0 +1,54 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a diningtable 1, a drawer 1, a garbagecan 1, a ottoman 1, a shelf 8, a shelf 7, a shelf 6, a shelf 5, a shelf 4, a shelf 3, a shelf 2, a shelf 1, a sidetable 1, a sofa 1, and a tvstand 1.\n\nYour task is to: put some keychain on drawer."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a laptop 1, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a keychain 1, a remotecontrol 1, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take keychain 1 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the keychain 1 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put keychain 1 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the keychain 1 in/on the drawer 1."
+    }
+]

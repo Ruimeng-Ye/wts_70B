@@ -1,0 +1,54 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a coffeetable 1, a diningtable 1, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a sidetable 2, a sidetable 1, and a sofa 1.\n\nYour task is to: put some plate on dresser."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a desklamp 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a cellphone 3, a houseplant 1, a plate 3, and a remotecontrol 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take plate 3 from sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the plate 3 from the sidetable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a television 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put plate 3 in/on dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the plate 3 in/on the dresser 1."
+    }
+]

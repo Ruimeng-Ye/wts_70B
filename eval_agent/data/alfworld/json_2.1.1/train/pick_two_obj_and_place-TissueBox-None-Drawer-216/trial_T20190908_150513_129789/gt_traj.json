@@ -1,0 +1,126 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a diningtable 1, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a shelf 1, a sidetable 3, a sidetable 2, a sidetable 1, and a sofa 1.\n\nYour task is to: put two tissuebox in drawer."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a desklamp 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a houseplant 1, a laptop 1, a statue 1, and a tissuebox 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take tissuebox 1 from sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the tissuebox 1 from the sidetable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put tissuebox 1 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the tissuebox 1 in/on the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a desklamp 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a houseplant 1, a laptop 1, and a statue 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 3"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 3, you see a statue 2, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a tissuebox 3, a vase 3, and a vase 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take tissuebox 3 from shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the tissuebox 3 from the shelf 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see a tissuebox 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put tissuebox 3 in/on drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the tissuebox 3 in/on the drawer 1."
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bathtubbasin 1, a drawer 1, a garbagecan 1, a handtowelholder 1, a sidetable 1, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, a towelholder 2, and a towelholder 1.\n\nYour task is to: put a soapbottle in sidetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a soapbottle 1, and a spraybottle 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take soapbottle 1 from toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the soapbottle 1 from the toilet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a houseplant 1, and a toiletpaper 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put soapbottle 1 in/on sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the soapbottle 1 in/on the sidetable 1."
+    }
+]

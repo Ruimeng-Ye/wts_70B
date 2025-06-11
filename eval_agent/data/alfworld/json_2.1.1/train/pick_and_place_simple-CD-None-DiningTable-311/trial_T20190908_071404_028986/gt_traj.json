@@ -1,0 +1,54 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 2, a armchair 1, a bed 1, a countertop 1, a diningtable 1, a drawer 2, a drawer 1, a dresser 1, a garbagecan 1, a laundryhamper 1, and a sidetable 1.\n\nYour task is to: put some cd on diningtable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a mug 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to garbagecan 1"
+    },
+    {
+        "from": "human",
+        "value": "On the garbagecan 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "On the dresser 1, you see a cd 1, a cellphone 1, a creditcard 1, a keychain 2, a mug 1, a pen 1, and a television 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take cd 1 from dresser 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the cd 1 from the dresser 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a alarmclock 1, and a book 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put cd 1 in/on diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the cd 1 in/on the diningtable 1."
+    }
+]

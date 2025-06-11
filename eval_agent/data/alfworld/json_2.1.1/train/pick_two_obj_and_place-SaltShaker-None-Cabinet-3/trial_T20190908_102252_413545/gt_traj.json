@@ -1,0 +1,94 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 1, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a sidetable 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: put two saltshaker in cabinet."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a peppershaker 1, a saltshaker 2, and a saltshaker 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take saltshaker 1 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the saltshaker 1 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see a pot 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put saltshaker 1 in/on cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the saltshaker 1 in/on the cabinet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a peppershaker 1, and a saltshaker 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take saltshaker 2 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the saltshaker 2 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see a pot 1, and a saltshaker 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put saltshaker 2 in/on cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the saltshaker 2 in/on the cabinet 1."
+    }
+]

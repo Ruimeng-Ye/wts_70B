@@ -1,0 +1,62 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 2, a armchair 1, a coffeetable 1, a diningtable 2, a diningtable 1, a drawer 2, a drawer 1, a garbagecan 1, a sidetable 2, a sidetable 1, a sofa 1, and a tvstand 1.\n\nYour task is to: put a statue in coffeetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a newspaper 2, and a pen 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 2, you see a curtains 1, and a plate 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 1, you see a houseplant 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to diningtable 2"
+    },
+    {
+        "from": "human",
+        "value": "On the diningtable 2, you see a book 1, a box 1, a statue 2, a vase 1, and a watch 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take statue 2 from diningtable 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the statue 2 from the diningtable 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a bowl 1, a newspaper 1, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put statue 2 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the statue 2 in/on the coffeetable 1."
+    }
+]

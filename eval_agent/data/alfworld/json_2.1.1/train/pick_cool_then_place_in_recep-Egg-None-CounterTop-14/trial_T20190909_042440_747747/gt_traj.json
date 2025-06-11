@@ -1,0 +1,54 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 8, a cabinet 7, a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 2, a countertop 1, a fridge 1, a garbagecan 1, a microwave 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: cool some egg and put it in countertop."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sinkbasin 1, you see a butterknife 3, a egg 3, and a potato 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take egg 3 from sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the egg 3 from the sinkbasin 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "The fridge 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "cool egg 3 with fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "You cool the egg 3 using the fridge 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "On the countertop 1, you see a bowl 1, a bread 2, a bread 1, a butterknife 2, a butterknife 1, a knife 2, a knife 1, a ladle 1, a lettuce 2, a saltshaker 1, a soapbottle 1, a spatula 1, and a spoon 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put egg 3 in/on countertop 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the egg 3 in/on the countertop 1."
+    }
+]

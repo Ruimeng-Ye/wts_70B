@@ -1,0 +1,38 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 2, a armchair 1, a coffeetable 1, a diningtable 2, a diningtable 1, a drawer 2, a drawer 1, a garbagecan 1, a sidetable 2, a sidetable 1, a sofa 1, and a tvstand 1.\n\nYour task is to: put a bowl in coffeetable."
+    },
+    {
+        "from": "gpt",
+        "value": "go to tvstand 1"
+    },
+    {
+        "from": "human",
+        "value": "On the tvstand 1, you see a bowl 1, a keychain 1, a pen 3, a pencil 1, and a television 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take bowl 1 from tvstand 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the bowl 1 from the tvstand 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the coffeetable 1, you see a book 2, a newspaper 2, a newspaper 1, a pen 2, and a vase 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put bowl 1 in/on coffeetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the bowl 1 in/on the coffeetable 1."
+    }
+]

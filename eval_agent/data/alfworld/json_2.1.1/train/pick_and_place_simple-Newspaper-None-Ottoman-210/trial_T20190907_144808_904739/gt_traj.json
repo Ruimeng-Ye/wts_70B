@@ -1,0 +1,38 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a coffeetable 2, a coffeetable 1, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a dresser 2, a dresser 1, a garbagecan 1, a ottoman 1, and a sofa 1.\n\nYour task is to: put some newspaper on ottoman."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sofa 1, you see a newspaper 2, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take newspaper 2 from sofa 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the newspaper 2 from the sofa 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to ottoman 1"
+    },
+    {
+        "from": "human",
+        "value": "On the ottoman 1, you see a box 1, a creditcard 3, a keychain 1, and a laptop 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put newspaper 2 in/on ottoman 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the newspaper 2 in/on the ottoman 1."
+    }
+]

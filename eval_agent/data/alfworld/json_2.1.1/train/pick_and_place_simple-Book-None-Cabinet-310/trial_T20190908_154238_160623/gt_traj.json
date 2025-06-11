@@ -1,0 +1,214 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a desk 1, a drawer 2, a drawer 1, a garbagecan 1, a shelf 1, and a sidetable 1.\n\nYour task is to: put some book on cabinet."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a creditcard 1, a keychain 1, a pen 1, and a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a creditcard 2, a pen 3, and a pen 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 1. The drawer 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "The drawer 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the drawer 2. The drawer 2 is open. In it, you see a keychain 2."
+    },
+    {
+        "from": "gpt",
+        "value": "close drawer 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the drawer 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a alarmclock 2, a alarmclock 1, a box 1, a cd 3, a keychain 3, and a pencil 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 3"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 3 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 3"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 3. The cabinet 3 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 3"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 3."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 2"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 2 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 2"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 2. The cabinet 2 is open. In it, you see a cd 2."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 2"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 4"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 4 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 4"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 4. The cabinet 4 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "close cabinet 4"
+    },
+    {
+        "from": "human",
+        "value": "You close the cabinet 4."
+    },
+    {
+        "from": "gpt",
+        "value": "go to bed 1"
+    },
+    {
+        "from": "human",
+        "value": "On the bed 1, you see a book 1, a cellphone 2, a cellphone 1, a laptop 1, and a pillow 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take book 1 from bed 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the book 1 from the bed 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "The cabinet 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the cabinet 1. The cabinet 1 is open. In it, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put book 1 in/on cabinet 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the book 1 in/on the cabinet 1."
+    }
+]

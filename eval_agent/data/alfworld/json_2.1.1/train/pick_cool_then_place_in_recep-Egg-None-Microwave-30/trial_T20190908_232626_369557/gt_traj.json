@@ -1,0 +1,62 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 13, a cabinet 12, a cabinet 11, a cabinet 10, a cabinet 9, a cabinet 8, a cabinet 7, a cabinet 6, a cabinet 5, a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a coffeemachine 1, a countertop 4, a countertop 3, a countertop 2, a countertop 1, a drawer 27, a drawer 26, a drawer 25, a drawer 24, a drawer 23, a drawer 22, a drawer 21, a drawer 20, a drawer 19, a drawer 18, a drawer 17, a drawer 16, a drawer 15, a drawer 14, a drawer 13, a drawer 12, a drawer 11, a drawer 10, a drawer 9, a drawer 8, a drawer 7, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a fridge 1, a garbagecan 1, a microwave 1, a sinkbasin 1, a stoveburner 4, a stoveburner 3, a stoveburner 2, a stoveburner 1, and a toaster 1.\n\nYour task is to: put a cool egg in microwave."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sinkbasin 1, you see a egg 3, a egg 2, a egg 1, and a glassbottle 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take egg 1 from sinkbasin 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the egg 1 from the sinkbasin 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "The fridge 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "cool egg 1 with fridge 1"
+    },
+    {
+        "from": "human",
+        "value": "You cool the egg 1 using the fridge 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to microwave 1"
+    },
+    {
+        "from": "human",
+        "value": "The microwave 1 is closed."
+    },
+    {
+        "from": "gpt",
+        "value": "open microwave 1"
+    },
+    {
+        "from": "human",
+        "value": "You open the microwave 1. The microwave 1 is open. In it, you see a bowl 3, and a egg 4."
+    },
+    {
+        "from": "gpt",
+        "value": "put egg 1 in/on microwave 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the egg 1 in/on the microwave 1."
+    }
+]

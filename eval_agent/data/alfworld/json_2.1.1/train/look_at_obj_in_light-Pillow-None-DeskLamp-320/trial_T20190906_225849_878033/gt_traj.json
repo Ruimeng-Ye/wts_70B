@@ -1,0 +1,46 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 2, a desk 1, a garbagecan 1, a shelf 5, a shelf 4, a shelf 3, a shelf 2, and a shelf 1.\n\nYour task is to: look at pillow under the desklamp."
+    },
+    {
+        "from": "gpt",
+        "value": "go to bed 1"
+    },
+    {
+        "from": "human",
+        "value": "On the bed 1, you see a pillow 2, a pillow 1, and a teddybear 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take pillow 2 from bed 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the pillow 2 from the bed 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a pencil 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see a alarmclock 1, and a desklamp 1."
+    },
+    {
+        "from": "gpt",
+        "value": "use desklamp 1"
+    },
+    {
+        "from": "human",
+        "value": "You turn on the desklamp 1."
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a cabinet 4, a cabinet 3, a cabinet 2, a cabinet 1, a countertop 1, a garbagecan 1, a handtowelholder 1, a sinkbasin 2, a sinkbasin 1, a toilet 1, a toiletpaperhanger 1, and a towelholder 1.\n\nYour task is to: put some toiletpaper on toiletpaperhanger."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toiletpaperhanger 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toiletpaperhanger 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toilet 1, you see a soapbar 2, a spraybottle 2, and a toiletpaper 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take toiletpaper 2 from toilet 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the toiletpaper 2 from the toilet 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to toiletpaperhanger 1"
+    },
+    {
+        "from": "human",
+        "value": "On the toiletpaperhanger 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "put toiletpaper 2 in/on toiletpaperhanger 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the toiletpaper 2 in/on the toiletpaperhanger 1."
+    }
+]

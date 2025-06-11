@@ -1,0 +1,38 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a bed 1, a desk 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a shelf 2, a shelf 1, and a sidetable 1.\n\nYour task is to: put a keychain in shelf."
+    },
+    {
+        "from": "gpt",
+        "value": "go to sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "On the sidetable 1, you see a alarmclock 2, a alarmclock 1, a book 1, a creditcard 1, and a keychain 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take keychain 1 from sidetable 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the keychain 1 from the sidetable 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a box 1, a cd 1, and a houseplant 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put keychain 1 in/on shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the keychain 1 in/on the shelf 1."
+    }
+]

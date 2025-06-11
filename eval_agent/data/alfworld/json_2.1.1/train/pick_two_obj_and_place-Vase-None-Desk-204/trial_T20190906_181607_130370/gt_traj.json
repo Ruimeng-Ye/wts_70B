@@ -1,0 +1,78 @@
+[
+    {
+        "from": "human",
+        "value": "-= Welcome to TextWorld, ALFRED! =-\n\nYou are in the middle of a room. Looking quickly around you, you see a armchair 1, a coffeetable 1, a desk 1, a diningtable 1, a drawer 6, a drawer 5, a drawer 4, a drawer 3, a drawer 2, a drawer 1, a garbagecan 1, a safe 1, a shelf 3, a shelf 2, a shelf 1, a sofa 2, a sofa 1, and a tvstand 1.\n\nYour task is to: find two vase and put them in desk."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "take vase 1 from shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the vase 1 from the shelf 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a creditcard 2, a creditcard 1, and a remotecontrol 2."
+    },
+    {
+        "from": "gpt",
+        "value": "put vase 1 in/on desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the vase 1 in/on the desk 1."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 1"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 1, you see nothing."
+    },
+    {
+        "from": "gpt",
+        "value": "go to shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "On the shelf 2, you see a vase 2."
+    },
+    {
+        "from": "gpt",
+        "value": "take vase 2 from shelf 2"
+    },
+    {
+        "from": "human",
+        "value": "You pick up the vase 2 from the shelf 2."
+    },
+    {
+        "from": "gpt",
+        "value": "go to desk 1"
+    },
+    {
+        "from": "human",
+        "value": "On the desk 1, you see a creditcard 2, a creditcard 1, a remotecontrol 2, and a vase 1."
+    },
+    {
+        "from": "gpt",
+        "value": "put vase 2 in/on desk 1"
+    },
+    {
+        "from": "human",
+        "value": "You put the vase 2 in/on the desk 1."
+    }
+]

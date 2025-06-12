@@ -5,8 +5,8 @@ python fastchat/train/train_lora_llama.py \
     --data_path data/ \
     --output_dir results/ \
     --num_train_epochs 3 \
-    --per_device_train_batch_size 1 \
-    --gradient_accumulation_steps 32 \
+    --per_device_train_batch_size 32 \
+    --gradient_accumulation_steps 2 \
     --learning_rate 2e-5 \
     --lora_r 64 \
     --lora_alpha 128 \
